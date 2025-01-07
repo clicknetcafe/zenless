@@ -311,5 +311,25 @@
 			"https://fastcdn.hoyoverse.com/content-v2/nap/124310/e29c3f30e342f2a0728c6f0fc7248cee_4022222118852409667.mp3",
 			"https://fastcdn.hoyoverse.com/content-v2/nap/124310/62c554144fe8e9ad46e4a870160b053a_4263502864816040082.mp3"
 		]
+	}],
+	"1311": [{
+		"name": "小N",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/127387/f6183b083a25b68ffcd59766b0a261c4_3142790485080313219.mp3"]},
+		{
+		"name": "Endo Aya",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/127387/f50e5dfcb5043dfc1943c0cbd51de3d1_3969914876826617313.mp3"
+		]
+	}],
+	"1321": [{
+		"name": "李蝉妃",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/127403/ef40bbfc50d877befb52a348eab0a485_4174301117555844637.mp3"]},
+		{
+		"name": "Hikasa Yoko",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/127403/ca533d6d11d0d0bb0b5204a7e4d8493d_7410234748267011376.mp3"
+		]
 	}]
 }
