@@ -331,5 +331,61 @@
 		"audio": [
 			"https://fastcdn.hoyoverse.com/content-v2/nap/127403/ca533d6d11d0d0bb0b5204a7e4d8493d_7410234748267011376.mp3"
 		]
+	}],
+	"1321": [{
+		"name": "潘丹妮",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129637/685960ce7d1e530f6f6bd6a9a6f3a438_7049111044284438859.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129637/dac2b9944a888b76a5ba76edd321261d_4959008302739881702.mp3"]},
+		{
+		"name": "Fujiwara Natsumi",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129637/0e99a24391dce44c3f9d267e0db0693b_4829308724744329807.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129637/68c75b52e34c7728d7063b767225351d_7193701043544573996.mp3"
+		]
+	}],
+	"1361": [{
+		"name": "秦紫翼",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129638/03aafec71fbe09eff65aa4e2db31041b_5771082318181188958.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129638/03aafec71fbe09eff65aa4e2db31041b_4709681414522025583.mp3"]},
+		{
+		"name": "Nanjo Yoshino",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129638/6f410b0d15cfab51b2e3a2c51bc5589e_1984286766909833202.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129638/7c74768f0cb75600385b4a7d83b6f33d_2553822518815016117.mp3"
+		]
+	}],
+	"1381": [{
+		"name": "宴宁",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129632/b1ae80fea040797190f22aafda4c210e_5283444194599405920.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129632/42f90f676efac8f3793ec7231a8b7be8_8161583231305039158.mp3"]},
+		{
+		"name": "Tanezaki Atsumi",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129632/12b1e74c41c577189c3a843f5c102dc3_5349599505355356164.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/129632/f6ff1e0f8521d0d2b0a6af343b378836_1674078671900417738.mp3"
+		]
+	}],
+	"1291": [{
+		"name": "梁达伟",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/154609/3780a5316ed60fcdcec364e24986213c_1746330182706974095.mp3"]},
+		{
+		"name": "Fukuyama Jun",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/154609/5bfd3ecfc315314e0ff7fa3df90ab0f6_6743702253880948894.mp3"
+		]
+	}],
+	"1331": [{
+		"name": "陈阳",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/154605/99ce1d17ae0aa4e6bb64e3dbff764313_8897972868266775535.mp3"]},
+		{
+		"name": "Mizuno Saku",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/154605/93f8540c1931c81211cc5c4bb9d4d078_1537186668725657361.mp3"
+		]
 	}]
 }
